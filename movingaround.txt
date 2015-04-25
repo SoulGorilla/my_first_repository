@@ -1,0 +1,67 @@
+clear
+ls
+mkdir uge_workshop
+cd ~
+history | head
+history | head -n 3
+history 10
+history 1-
+history | less
+history 
+clear 
+cl
+history
+ls Downloads/
+ls Desktop/
+ls Documents/
+cd~
+ls ~
+ls~
+jclear
+brew info fish
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+cd ..
+cd desktop
+ls -G
+ls -g
+cd..
+cd downloads
+cd applications
+cd.
+cd ...
+pwd
+cd my\ folder
+cd /myfolder
+mkdir my\ folder
+cd /tmp
+cd 
+man ls
+man
+ls -r -t
+ls -r
+ls -l
+ls -t
+$cd/
+cd/
+$ cd /
+git
+rm -r 
+cd
+ls -a
+cd my_first_repository/
+my_first_repository/
+mv my_first_repository my_even_cooler_project
+my_first_repository/ ls -a
+git init my_first_repository
+git --version
+meteor mongo
+pd
+meteor
+cd simple-todos
+meteor create simple-todos
+curl https://install.meteor.com/ | sh
