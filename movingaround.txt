@@ -8,7 +8,7 @@ history 10
 history 1-
 history | less
 history 
-clear 
+Just making a change...clear 
 cl
 history
 ls Downloads/
